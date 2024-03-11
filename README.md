@@ -3,7 +3,7 @@
 1. O problema ou oportunidade percebida;
 Falta de tempo, produtividade e falta de apoio para alcance de objetivos, pressão social se comparado com outras redes sociais.
 
-2 A razão ou justificativa para esta demanda;
+2. A razão ou justificativa para esta demanda;
 Auxílio em:
 Gestão de tempo
 Saúde
