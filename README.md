@@ -1,7 +1,3 @@
-# Grupo, Integrantes e RAs
-# Gabriela Nellessen// RA:10441930
-# Henrique Magyarics// RA:10388168
-
 1. O problema ou oportunidade percebida;
 Falta de tempo, produtividade e falta de apoio para alcance de objetivos, pressão social se comparado com outras redes sociais.
 
